@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 * <b>osTicket( Help Desk Ticketing System)<b>
-= <b>[osTicket:Prerequisites and Installation](Https://Github.com/Skibs1/osTicket-prerequs)
+= <b>[osTicket:Prerequisites and Installation](Https://Github.com/Skibs1/osTicket-prereqs)
 , [osTicket:Post Installation Configuration](Https://Github.com/Laniah-Porter/post-install-config)
 , [osTicket:Ticket Lifecycle Examples](Https://Github.com/Laniah-Porter/Ticket/Lifecylce)
 * <b>Microsoft Azure<b>
