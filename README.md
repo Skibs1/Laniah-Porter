@@ -12,3 +12,4 @@
 
 <h2> connect with me
 </h2>[instagram]: Https://www.instagram.com/Skibs1
+</h2[linkedin]: Https://linkedin.com/Laniahporter
