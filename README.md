@@ -10,5 +10,5 @@
 - [Network Security Groups:(NSGs) and Inspecting Newtwork Protocols](Https://Github.com/Skibs1/Azure-network-protocols)
 
 <h2> connect with me
-</h2>[instagram]: Https://www.instagram.com/Skibs1
-</h2>[linkedin]: Https://www.linkedin.com/in/laniah-porter-47936028a/
+ </h2>[instagram]: Https://www.instagram.com/Skibs1
+ </h2>[linkedin]: Https://www.linkedin.com/in/laniah-porter-47936028a/
